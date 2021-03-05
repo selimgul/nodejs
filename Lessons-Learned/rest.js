@@ -1,10 +1,10 @@
 //const request = require('request');
 
-// let url = "http://ddwsals/UQWebServices/core/UQDocumentService.svc/api/Login";
+// let url = "http://";
 // let param = {
 //     json: {
 //         LoginInfo: {
-//             Environment: 'GARDVL',
+//             Environment: '',
 //             UserName: req.params.username,
 //             Password: 'password'
 //         }
